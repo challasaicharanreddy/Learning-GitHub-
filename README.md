@@ -1,4 +1,4 @@
 # Learning-GitHub-
 <br>
 This is my first Git Repository.
-Author-Sai Charan.
+Author-Sai Charan(From NITRR).
